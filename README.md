@@ -4,11 +4,11 @@ Personal prompt library for AI assistants. Principle-based, generic, composable.
 
 ## Usage
 
-Paste `core.md`. Optionally append one mode file. Then state the task.
+Paste `core.md`. Optionally append one or more mode files. Then state the task.
 
 ```
 [core.md]
-[modes/<task-type>.md]    # optional
+[modes/<task-type>.md]    # optional, repeat as needed
 <your specific task>
 ```
 
@@ -18,6 +18,7 @@ Paste `core.md`. Optionally append one mode file. Then state the task.
 |---|---|
 | `core.md` | Always |
 | `modes/analyze.md` | Research, analysis, thinking through problems |
+| `modes/business.md` | Business framing, strategy, decision memos |
 | `modes/code.md` | Writing, debugging, or reviewing code |
 | `modes/continue.md` | Resuming agentic work mid-session |
 | `modes/write.md` | Essays, documents, prose |
