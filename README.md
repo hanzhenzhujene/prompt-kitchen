@@ -20,6 +20,7 @@ Paste `core.md`. Optionally append one or more mode files. Then state the task.
 | `modes/analyze.md` | Research, analysis, thinking through problems |
 | `modes/business.md` | Business framing, strategy, decision memos |
 | `modes/code.md` | Writing, debugging, or reviewing code |
+| `modes/communication.md` | Structured communication, executive briefings |
 | `modes/continue.md` | Resuming agentic work mid-session |
 | `modes/write.md` | Essays, documents, prose |
 
