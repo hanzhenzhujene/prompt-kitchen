@@ -1,3 +1,8 @@
+---
+name: continue
+description: Resume agentic work mid-session by reviewing state, restating the gap, choosing the next step, and reporting progress.
+---
+
 # Mode: Continue
 
 For resuming agentic work mid-stream. Layers on `core.md` and (optionally) a task mode.

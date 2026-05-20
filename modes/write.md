@@ -1,3 +1,8 @@
+---
+name: write
+description: Essays, documents, emails, and prose with clear outlines, strong openings and closings, and audience-fit register.
+---
+
 # Mode: Write
 
 For essays, documents, emails, and prose. Layers on `core.md`.
@@ -14,7 +19,7 @@ For essays, documents, emails, and prose. Layers on `core.md`.
 
 ## Default format
 
-Prose: thesis → development → implication.
+Prose: thesis -> development -> implication.
 
 Email: ask first, context second, sign-off third.
 

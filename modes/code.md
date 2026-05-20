@@ -1,3 +1,8 @@
+---
+name: code
+description: Writing, debugging, reviewing, and agentic coding with read-plan-change-verify discipline.
+---
+
 # Mode: Code
 
 For writing, debugging, and reviewing code. Includes agentic coding contexts. Layers on `core.md`.

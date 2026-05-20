@@ -26,6 +26,18 @@ Paste `core.md`. Optionally append one or more mode files. Then state the task.
 | `modes/readme-infrastructure-map.md` | README-style plain-text diagrams |
 | `modes/write.md` | Essays, documents, prose |
 
+## Recipes
+
+| Task | Use |
+|---|---|
+| Quick manager chat sync | `core.md` + `modes/communication.md` + `modes/bracketed-skimmable-update.md` |
+| Verbal team update | `core.md` + `modes/communication.md` + `modes/business.md` |
+| Business analysis | `core.md` + `modes/analyze.md` + `modes/business.md` |
+| Coding agent work | `core.md` + `modes/code.md` |
+| Resume interrupted coding work | `core.md` + `modes/continue.md` + `modes/code.md` |
+| README or project diagram | `core.md` + `modes/readme-infrastructure-map.md` |
+| Prose or email drafting | `core.md` + `modes/write.md` |
+
 ## What this encodes
 
 MECE decomposition. First principles. Decision-orientation. Clarity, simple words, no fluff.

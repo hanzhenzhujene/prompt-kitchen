@@ -1,3 +1,8 @@
+---
+name: analyze
+description: Research, analysis, and structured thinking with MECE decomposition, assumptions, decisions, and implications.
+---
+
 # Mode: Analyze
 
 For research, analysis, and structured thinking. Layers on `core.md`.

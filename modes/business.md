@@ -1,3 +1,8 @@
+---
+name: business
+description: Business framing, strategy, and decision memos that define purpose, context, stakeholders, tradeoffs, and communication.
+---
+
 # Mode: Business
 
 For approaching problems like a business operator. Layers on `core.md`, often alongside `analyze.md`.

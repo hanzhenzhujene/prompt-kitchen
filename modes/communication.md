@@ -1,3 +1,8 @@
+---
+name: communication
+description: Structured communication for raw notes, executive updates, verbal briefings, and top-down logical architectures.
+---
+
 # Mode: Communication
 
 For turning raw notes into structured communication: logical architectures, executive updates, and verbal briefings. Layers on `core.md`, often alongside `analyze.md` or `business.md`.
