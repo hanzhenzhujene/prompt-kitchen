@@ -2,7 +2,7 @@
 
 SOTA & reusable kitchen to COOK ur llm! 🍳🔥🧂🤪
 
-- by jenny zhu 🧑‍🍳✨
+- by jenny zhu 🧑‍🍳
 
 ## Usage
 
