@@ -1,4 +1,4 @@
-# prompts
+# prompt-kitchen
 
 Personal prompt library for AI assistants. Principle-based, generic, composable.
 
