@@ -1,6 +1,6 @@
 # prompt-kitchen
 
-Personal prompt library for AI assistants. Principle-based, generic, composable.
+SOTA reusable prompt modes for sharper thinking, cleaner communication, and better agentic work. Generic, composable, and fun to remix.
 
 ## Usage
 
